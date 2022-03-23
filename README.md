@@ -1,5 +1,5 @@
 # Genome
-This code compares the theoretical and practical distributions of fragments according to their lengths.
+<p>This code compares the theoretical and practical length distributions of fragments.</p>
 
 <h1>TR</h1>
 
